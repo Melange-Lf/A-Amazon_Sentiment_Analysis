@@ -35,6 +35,9 @@ The project contains the following files/folders:
 - `Word_Vec`: Contains the Embeddings used in the model
 - `amazon_review_full_csv`: Contains the dataset which was used to train and test the model
 
+NOTE: currenlty the dataset and embeddings, are not present in their respective folders.  
+This is due to uploading constraints arising from their large sizes.   
+
 ## Prerequisites
 
 The required libaries can be installed using the requirements file
